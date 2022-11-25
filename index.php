@@ -1,11 +1,8 @@
 <?php
 
 $class=[
-    'dfvb',
-    'khdbvf',
-    'bsdhbhs',
-    'jfvgyu',
-    'ugh',
+   'akerke',
+   'sevara',
     987564,
     45786,
     986346
