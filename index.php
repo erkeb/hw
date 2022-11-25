@@ -5,5 +5,8 @@ $class=[
     'khdbvf',
     'bsdhbhs',
     'jfvgyu',
-    'ugh'
+    'ugh',
+    987564,
+    45786,
+    986346
 ];
